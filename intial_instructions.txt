@@ -1,0 +1,6 @@
+#TO GET RUN THIS COMMANDS ON YOU LOCAL MACHINE OR VIRTUAL MACHINE USE BELOW COMMAND
+  
+git clone https://github.com/MISTERVIK254/Linux-Administration
+# The change directory command to go the directory
+
+cd Linux-Administration
