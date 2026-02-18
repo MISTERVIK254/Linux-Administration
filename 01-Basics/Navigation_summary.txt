@@ -1,0 +1,79 @@
+The following are list of commands we have captured so far
+✔ cd
+✔ pwd
+✔ ls
+✔ tree
+✔ absolute vs relative paths
+✔ which
+✔ whereis
+✔ type
+✔ find
+✔ locate
+✔ history
+✔ man
+key navigation commands to note:
+📁 Navigation topics (Complete Module)
+
+Your navigation.sh should practice these commands:
+
+1️⃣ Where am I?
+pwd
+
+
+Shows current directory.
+
+2️⃣ List files and folders
+ls
+ls -l
+ls -a
+ls -lh
+ls -lt
+
+
+Explanation:
+
+ls → list files
+
+ls -l → long format
+
+ls -a → show hidden files
+
+ls -lh → human readable sizes
+
+ls -lt → sort by time
+
+3️⃣ Move between directories
+cd /
+cd ~
+cd ..
+cd -
+cd 01-Basics
+
+
+cd / → root
+
+cd ~ → home
+
+cd .. → go back one folder
+
+cd - → previous directory
+
+4️⃣ View folder structure
+tree
+
+
+If not installed:
+
+sudo apt install tree
+
+5️⃣ Absolute vs Relative paths
+
+Examples to include:
+
+cd /home/kali
+cd ../
+cd ./01-Basics
+
+6️⃣ Clear terminal
+clear
+
